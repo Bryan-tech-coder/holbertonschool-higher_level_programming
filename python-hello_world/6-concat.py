@@ -2,4 +2,4 @@
 str1 = "Holberton"
 str2 = "School"
 
-print(f"Welcome to {str1} {str2}!") # print the concatenated string
+print(f"Welcome to {str1} {str2}!")  # concatenated string print
