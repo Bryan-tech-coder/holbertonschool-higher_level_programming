@@ -11,3 +11,10 @@
 [1, 2, 3, 4, 5]
 >>> my_list
 [1, 4, 2, 3, 5]
+>>> empty_list = MyList()
+>>> empty_list
+[]
+>>> empty_list.print_sorted()
+[]
+>>> empty_list
+[]
