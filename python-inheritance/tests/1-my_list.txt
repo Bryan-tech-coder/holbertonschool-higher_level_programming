@@ -18,3 +18,17 @@
 []
 >>> empty_list
 []
+>>> neg_list = MyList()
+>>> neg_list.append(3)
+>>> neg_list.append(-1)
+>>> neg_list.append(2)
+>>> neg_list.append(-5)
+>>> neg_list.append(0)
+>>> neg_list
+[3, -1, 2, -5, 0]
+
+>>> neg_list.print_sorted()
+[-5, -1, 0, 2, 3]
+
+>>> neg_list
+[3, -1, 2, -5, 0]
