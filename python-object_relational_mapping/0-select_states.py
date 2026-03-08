@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Lists all states from the database hbtn_0e_0_usa.
 Results are ordered by states.id in ascending order.
